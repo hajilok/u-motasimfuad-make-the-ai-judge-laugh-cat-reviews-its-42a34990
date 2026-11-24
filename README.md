@@ -12,7 +12,7 @@ Entry for the [make.fun](https://make.fun/r/41fw6r6c) competition **Make the AI 
 node main.ts
 ```
 
-Writes a deterministic, single-line, sub-200-character UTF-8 one-star cat review to `/output/entry.txt` (or `$OUTPUT_DIR/entry.txt` when `OUTPUT_DIR` is set for local testing).
+Writes a deterministic, single-line, sub-200-character UTF-8 one-star cat review to `/output/entry.txt` (or `<dir>/entry.txt` if an output directory argument is passed for local testing).
 
 ## License
 
